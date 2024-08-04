@@ -1,0 +1,9 @@
+flask
+numpy
+pandas
+scikit-learn
+joblib
+optuna
+mlflow
+pytest
+flake8
