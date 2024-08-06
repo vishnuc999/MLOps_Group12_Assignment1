@@ -7,3 +7,4 @@ optuna
 mlflow
 pytest
 flake8
+dvc
