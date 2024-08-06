@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/91830/PycharmProjects/MLOps_Group12_Assignment1/mlruns/0/f1c75761abc743db868c500eff1166f7/artifacts
+deleted_time: 1722913415249
+end_time: 1722913256833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f1c75761abc743db868c500eff1166f7
+run_name: masked-stork-1
+run_uuid: f1c75761abc743db868c500eff1166f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722913255864
+status: 3
+tags: []
+user_id: '91830'
